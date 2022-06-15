@@ -1,1 +1,1 @@
-# song-blender
+# spotify-blender
